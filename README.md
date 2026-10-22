@@ -1,1 +1,1 @@
-# Portfolio-of-Hands-on-Activities-in-CPE010-DATA_STRUCTURES_AND-_ALGORITHMS
+# Portfolio_of_Hands-on_Activities_in_CPE-010_DATA_STRUCTURES_AND_ALGORITHMS
