@@ -15,18 +15,21 @@
 
    ## About This Portfolio
 
-   This repository is a compilation of all my **hands-on activities, exercises, and projects** for **CPE-010 – Data Structures and Algorithms**. It documents my progress across the semester, from basic concepts in the Prelim period up to the more advanced topics in the Finals, all implemented in **C++**.
+   - This repository is a compilation of all my **hands-on activities, exercises, and projects** for **CPE-010 – Data Structures and Algorithms**. It documents my progress across the semester, from basic concepts in the Prelim period up to the more advanced topics in the Finals, all implemented in **C++**.
 
    The goal of this portfolio is to:
 
-   - Keep an organized record of my coursework
-   - Show my understanding of core data structures and how they work under the hood
+   - Keep an organized record of my Hands-on Activities
    - Showcase my C++ problem-solving and programming skills
    - Serve as a reference for future review and projects
 
    ---
+   ## INSTRUCTOR
+   -  Engr. Jimlord M. Quejado
+   ___
+   
    ## About This Course
-
+   - 
 
    ___
 
@@ -39,7 +42,7 @@
    | **School** | Technological Institute of the Philippines (T.I.P.) |
    | **Course** | CPE-010 – Data Structures and Algorithms |
    | **GitHub** | [@Dolosojrcpe](https://github.com/Dolosojrcpe) |
-   | **Email** | your.email@tip.edu.ph |
+   | **Email** | qadolosojr@tip.edu.ph |
 
    ---
 
@@ -48,12 +51,12 @@
    ```
    Portfolio_in_CPE-010/
    │
+   ├── README.md        # You are here
    ├── PRELIM/          # Prelim period activities
    ├── MIDTERM/         # Midterm period activities
    ├── FINALS/          # Finals period activities
-   └── README.md        # You are here
+  
    ```
-
    ---
 
    ## Files Directory
@@ -84,6 +87,8 @@
    |---|---|---|
    | Hands-on Activity 10.1 | Graphs | Short description |
    | Hands-on Activity 11.1 | Basic Algorithm Analysis | Short description |
+
+
    | Hands-on Activity 12.1 | Algorithmic Strategies | Short description |
    | Hands-on Activity 13.1 | Parallel Algorithms and Multithreading | Short description |
    | Hands-on Activity 14.1 | Algorithm Complexity | Short description |
@@ -101,15 +106,6 @@
    - [x] Trees and Graphs
    ---
 
-   ## Tools Used
-
-   - **Language:** C++
-   - **Compiler:** g++ / GCC
-   - **Editors / IDEs:** VS Code, Code::Blocks, OnlineGDB
-   - **Version Control:** Git & GitHub
-
-   ---
-
    ## Contact
 
    - GitHub: [@Dolosojrcpe](https://github.com/Dolosojrcpe)
@@ -117,9 +113,5 @@
 
    ---
 
-   <div align="center">
-
-   * Thank you! *
-
-   </div>
+   <div align="center"> * Thank you! * </div>
 
