@@ -24,12 +24,12 @@
    - Serve as a reference for future review and projects
 
    ---
-   ## INSTRUCTOR
+   ## Instructor
    -  Engr. Jimlord M. Quejado
    ___
    
    ## About This Course
-   - 
+   - This course focuses on solving computational problems that manipulate collected data, studying a core set of data abstractions, data structures, and algorithms that provide a foundation for writing efficient programs. The course content includes theoretical topics in algorithmic efficiency and complexity, along with abstract data types, including graphs, networks, trees (including binary and multi-way trees), heaps, stacks, and priority queues. Search topics, including hashing, trees, external search trees (B-trees), and fundamentals of sorting algorithms with external sorting are introduced and compared. The student's outcome is to design algorithms for each data structure and to use data structures and algorithms in the design of an effective program or software application that will solve a particular engineering-related problem using C++.
 
    ___
 
@@ -41,9 +41,6 @@
    | **Program** | Bachelor of Science in Computer Engineering (BSCpE) |
    | **School** | Technological Institute of the Philippines (T.I.P.) |
    | **Course** | CPE-010 – Data Structures and Algorithms |
-   | **GitHub** | [@Dolosojrcpe](https://github.com/Dolosojrcpe) |
-   | **Email** | qadolosojr@tip.edu.ph |
-   |           |  andrewdolosojr@gmail.com |
 
    ---
 
@@ -88,8 +85,6 @@
    |---|---|---|
    | Hands-on Activity 10.1 | Graphs | Short description |
    | Hands-on Activity 11.1 | Basic Algorithm Analysis | Short description |
-
-
    | Hands-on Activity 12.1 | Algorithmic Strategies | Short description |
    | Hands-on Activity 13.1 | Parallel Algorithms and Multithreading | Short description |
    | Hands-on Activity 14.1 | Algorithm Complexity | Short description |
@@ -108,11 +103,15 @@
    ---
 
    ## Contact
-
-   - GitHub: [@Dolosojrcpe](https://github.com/Dolosojrcpe)
-   - Email: qadolosojr@tip.edu.ph
-
+   | | |
+   |---|---|
+   | **GitHub** | [@Dolosojrcpe](https://github.com/Dolosojrcpe) |
+   | **Email** | qadolosojr@tip.edu.ph |
+   |  |  andrewdolosojr@tip.edu.ph |
    ---
 
-   <div align="center"> * Thank you! * </div>
+   <div align="center"> 
+
+   ### THANK YOU!
+  </div>
 
