@@ -43,6 +43,7 @@
    | **Course** | CPE-010 – Data Structures and Algorithms |
    | **GitHub** | [@Dolosojrcpe](https://github.com/Dolosojrcpe) |
    | **Email** | qadolosojr@tip.edu.ph |
+   |           |  andrewdolosojr@gmail.com |
 
    ---
 
